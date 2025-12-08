@@ -13,3 +13,9 @@ https://www.python.org
 
 ⚠️ Important: If you have multiple Python versions installed, make sure Python 3.7 is selected as the default version for this project.
 
+
+## 🎥 Project Demo
+
+Watch the demo video here:  
+https://youtu.be/Qt0bbXLapdI
+
