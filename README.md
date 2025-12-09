@@ -67,3 +67,11 @@ Execute cells sequentially through Step 6 to train the model
 Training runs for 10,000 steps (configurable)
 Model checkpoints saved automatically
 
+
+🙏 Acknowledgments
+
+TensorFlow Object Detection API team
+EasyOCR developers
+Kaggle dataset contributors
+Nicholas Renotte for the comprehensive TensorFlow course
+
