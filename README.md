@@ -25,7 +25,7 @@ Installation
 Clone the repository
 
 'git clone https://github.com/nicknochnack/TFODCourse .'
-'cd anpr-system'
+"cd anpr-system"
 
 Create and activate virtual environment
 
